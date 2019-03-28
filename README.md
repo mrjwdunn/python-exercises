@@ -17,32 +17,32 @@ This repo stores my python exercises. As of right now it contains:
 3. Imports
 
     - importing from own files
-        - a. importing module
-        - b. importing specific functions
+        - importing module
+        - importing specific functions
 
 4. matplotlib
 
     - using pyplot to create figures
-        - a. adding text, labels, titles, and annotations
-        - b. creating subplots
-        - c. adding legends
+        - adding text, labels, titles, and annotations
+        - creating subplots
+        - adding legends
 
 5. numpy
 
     - creating a numpy array
     - indexing
-        - a. selecting subsets from an array
+        - selecting subsets from an array
     - vectorized operations
     - array methods
-        - a. transpose, reshape, mean, std dev, etc.
+        - transpose, reshape, mean, std dev, etc.
 
 6. pandas
 
     - creating a data frame
     - examining the data frame
-        - a. shape
-        - b. data types
-        - c. vectorized operations
+        - shape
+        - data types
+        - vectorized operations
     - creating new columns
     - group by
     - getting data from SQL databases, JSON files, and CSV files
